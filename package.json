@@ -1,0 +1,16 @@
+{
+  "name": "get-ms-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "nico",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
